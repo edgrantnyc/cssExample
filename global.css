@@ -1,0 +1,25 @@
+
+   #box1 {
+    background-color: black;
+    color: white;
+    width: 900px;
+    height: 100px;
+    padding: 60px;
+    border: 100px solid green;
+    
+
+    }
+   
+
+   #box2 {
+    background-color: black;
+    color: white;
+    width: 900px;
+    height: 100px;
+    padding: 60px;
+    border: 100px solid red;
+    
+
+    }
+   
+
